@@ -1,0 +1,92 @@
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 24 April 2018 12:31 PM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 24 April 2018 12:44 PM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 24 April 2018 12:48 PM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 24 April 2018 01:13 PM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 24 April 2018 01:18 PM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 24 April 2018 01:19 PM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 24 April 2018 01:23 PM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 24 April 2018 02:47 PM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 24 April 2018 02:47 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 24 April 2018 02:48 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 24 April 2018 02:48 PM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 24 April 2018 02:50 PM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 24 April 2018 02:57 PM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 24 April 2018 03:07 PM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 24 April 2018 03:19 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 24 April 2018 03:22 PM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 24 April 2018 03:22 PM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 24 April 2018 03:50 PM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Email NOT sent
+Date: 24 April 2018 03:50 PM
+Description:  Database record is updated for failure email...
+=============================================================================================================
+Source: Email NOT sent
+Date: 24 April 2018 03:58 PM
+Description:  Database record is updated for failure email...
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 24 April 2018 04:07 PM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 24 April 2018 04:09 PM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 24 April 2018 04:10 PM
+Description:  ***SUCCESS*** 

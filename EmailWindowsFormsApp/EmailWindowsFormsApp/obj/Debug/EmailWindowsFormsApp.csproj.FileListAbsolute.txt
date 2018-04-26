@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\EmailWindowsFormsApp\EmailWindowsFormsApp\bin\Debug\EmailWindowsFormsApp.exe.config
+C:\Users\Lenovo\source\repos\EmailWindowsFormsApp\EmailWindowsFormsApp\bin\Debug\EmailWindowsFormsApp.exe
+C:\Users\Lenovo\source\repos\EmailWindowsFormsApp\EmailWindowsFormsApp\bin\Debug\EmailWindowsFormsApp.pdb
+C:\Users\Lenovo\source\repos\EmailWindowsFormsApp\EmailWindowsFormsApp\bin\Debug\Email_details.dll
+C:\Users\Lenovo\source\repos\EmailWindowsFormsApp\EmailWindowsFormsApp\bin\Debug\Email_details.pdb
+C:\Users\Lenovo\source\repos\EmailWindowsFormsApp\EmailWindowsFormsApp\obj\Debug\EmailWindowsFormsApp.displayForm.resources
+C:\Users\Lenovo\source\repos\EmailWindowsFormsApp\EmailWindowsFormsApp\obj\Debug\EmailWindowsFormsApp.Form1.resources
+C:\Users\Lenovo\source\repos\EmailWindowsFormsApp\EmailWindowsFormsApp\obj\Debug\EmailWindowsFormsApp.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\EmailWindowsFormsApp\EmailWindowsFormsApp\obj\Debug\EmailWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\EmailWindowsFormsApp\EmailWindowsFormsApp\obj\Debug\EmailWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EmailWindowsFormsApp\EmailWindowsFormsApp\obj\Debug\EmailWindowsFormsApp.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\EmailWindowsFormsApp\EmailWindowsFormsApp\obj\Debug\EmailWindowsFormsApp.exe
+C:\Users\Lenovo\source\repos\EmailWindowsFormsApp\EmailWindowsFormsApp\obj\Debug\EmailWindowsFormsApp.pdb

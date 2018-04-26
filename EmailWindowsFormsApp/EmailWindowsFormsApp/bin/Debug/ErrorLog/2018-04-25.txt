@@ -1,0 +1,66 @@
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 25 April 2018 12:10 PM
+Description: Object reference not set to an instance of an object.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 25 April 2018 12:11 PM
+Description: Object reference not set to an instance of an object.
+=============================================================================================================
+Source: Error in Update Function of DLL 
+Date: 25 April 2018 12:19 PM
+Description: Procedure or function 'Update_Detail' expects parameter '@Eid', which was not supplied.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Email_details.Class1.Update(String Eid, String SMTP_Server_Name, Int32 Port_No, String From_Email_id, String Password, String To_Email_id, String Body, String Subject, String Is_Success, String Failure_Message, DateTime Logg, String Project_Name, String Enable_SSL, String Enable_Password, Int32 Attempts, String Attachment, String CC, String BCC, DateTime start_time) in C:\Users\Lenovo\source\repos\Email Service2\Email_details\Email_details\Class1.cs:line 450
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 25 April 2018 12:19 PM
+Description: Procedure or function 'Update_Detail' expects parameter '@Eid', which was not supplied.
+=============================================================================================================
+Source: Error in Update Function of DLL 
+Date: 25 April 2018 12:25 PM
+Description: Procedure or function 'Update_Detail' expects parameter '@Eid', which was not supplied.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Email_details.Class1.Update(String Eid, String SMTP_Server_Name, Int32 Port_No, String From_Email_id, String Password, String To_Email_id, String Body, String Subject, String Is_Success, String Failure_Message, DateTime Logg, String Project_Name, String Enable_SSL, String Enable_Password, Int32 Attempts, String Attachment, String CC, String BCC, DateTime start_time) in C:\Users\Lenovo\source\repos\Email Service2\Email_details\Email_details\Class1.cs:line 450
+=============================================================================================================
+Source: Error in Update Function of DLL 
+Date: 25 April 2018 12:25 PM
+Description: Procedure or function 'Update_Detail' expects parameter '@Eid', which was not supplied.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Email_details.Class1.Update(String Eid, String SMTP_Server_Name, Int32 Port_No, String From_Email_id, String Password, String To_Email_id, String Body, String Subject, String Is_Success, String Failure_Message, DateTime Logg, String Project_Name, String Enable_SSL, String Enable_Password, Int32 Attempts, String Attachment, String CC, String BCC, DateTime start_time) in C:\Users\Lenovo\source\repos\Email Service2\Email_details\Email_details\Class1.cs:line 450
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 25 April 2018 12:25 PM
+Description: Procedure or function 'Update_Detail' expects parameter '@Eid', which was not supplied.
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 25 April 2018 12:26 PM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 25 April 2018 12:27 PM
+Description: There is no row at position 2.

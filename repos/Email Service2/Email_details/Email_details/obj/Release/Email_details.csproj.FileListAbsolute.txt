@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Email Service\Email_details\Email_details\bin\Release\Email_details.dll
+C:\Users\Lenovo\source\repos\Email Service\Email_details\Email_details\bin\Release\Email_details.pdb
+C:\Users\Lenovo\source\repos\Email Service\Email_details\Email_details\obj\Release\Email_details.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Email Service\Email_details\Email_details\obj\Release\Email_details.dll
+C:\Users\Lenovo\source\repos\Email Service\Email_details\Email_details\obj\Release\Email_details.pdb
+C:\Users\Lenovo\source\repos\Email Service2\Email_details\Email_details\bin\Release\Email_details.dll
+C:\Users\Lenovo\source\repos\Email Service2\Email_details\Email_details\bin\Release\Email_details.pdb
+C:\Users\Lenovo\source\repos\Email Service2\Email_details\Email_details\obj\Release\Email_details.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Email Service2\Email_details\Email_details\obj\Release\Email_details.dll
+C:\Users\Lenovo\source\repos\Email Service2\Email_details\Email_details\obj\Release\Email_details.pdb
+C:\Users\Lenovo\source\repos\Email Service2\Email_details\Email_details\obj\Release\Email_details.csprojResolveAssemblyReference.cache

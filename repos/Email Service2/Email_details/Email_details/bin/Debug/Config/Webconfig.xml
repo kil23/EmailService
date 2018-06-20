@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <SQLconnectionStrings>
+    Data Source=SHRUTIKA-PC\SQLEXPRESS; Database=dbEmailService;Trusted_Connection=True;user id = sa;password=12345;
+  </SQLconnectionStrings>
+</Settings>

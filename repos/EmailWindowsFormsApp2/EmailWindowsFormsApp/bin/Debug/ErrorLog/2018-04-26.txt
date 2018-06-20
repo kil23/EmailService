@@ -1,0 +1,225 @@
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 26 April 2018 10:18 AM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 26 April 2018 10:19 AM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 12:18 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 12:18 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 12:18 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 12:18 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 01:53 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 01:53 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 01:53 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 01:53 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 01:53 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 01:53 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 01:54 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 01:54 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 02:21 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 02:21 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 02:21 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 02:21 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 02:21 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 02:21 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 02:21 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 02:21 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 02:24 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 02:26 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 02:39 PM
+Description: Specified cast is not valid.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 02:41 PM
+Description: String was not recognized as a valid DateTime.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 02:46 PM
+Description: String was not recognized as a valid DateTime.
+=============================================================================================================
+Source: Email NOT sent
+Date: 26 April 2018 02:48 PM
+Description:  Database record is updated for failure email...
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 26 April 2018 02:49 PM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Email NOT sent
+Date: 26 April 2018 02:50 PM
+Description:  Database record is updated for failure email...
+=============================================================================================================
+Source: Email NOT sent
+Date: 26 April 2018 02:50 PM
+Description:  Database record is updated for failure email...
+=============================================================================================================
+Source: Email NOT sent
+Date: 26 April 2018 02:50 PM
+Description:  Database record is updated for failure email...
+=============================================================================================================
+Source: Email NOT sent
+Date: 26 April 2018 02:50 PM
+Description:  Database record is updated for failure email...
+=============================================================================================================
+Source: Email NOT sent
+Date: 26 April 2018 02:50 PM
+Description:  Database record is updated for failure email...
+=============================================================================================================
+Source: Email NOT sent
+Date: 26 April 2018 02:50 PM
+Description:  Database record is updated for failure email...
+=============================================================================================================
+Source: Email NOT sent
+Date: 26 April 2018 02:51 PM
+Description:  Database record is updated for failure email...
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 26 April 2018 02:51 PM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 26 April 2018 02:51 PM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Error while binding.. 
+Date: 26 April 2018 03:58 PM
+Description: Login failed. The login is from an untrusted domain and cannot be used with Integrated authentication.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 05:20 PM
+Description: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 05:41 PM
+Description: Object reference not set to an instance of an object.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 06:15 PM
+Description: String was not recognized as a valid DateTime.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 06:24 PM
+Description: String was not recognized as a valid DateTime.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 06:24 PM
+Description: String was not recognized as a valid DateTime.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 06:24 PM
+Description: String was not recognized as a valid DateTime.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 06:25 PM
+Description: String was not recognized as a valid DateTime.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 06:25 PM
+Description: String was not recognized as a valid DateTime.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 06:25 PM
+Description: String was not recognized as a valid DateTime.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 06:25 PM
+Description: String was not recognized as a valid DateTime.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 06:38 PM
+Description: String was not recognized as a valid DateTime.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 06:38 PM
+Description: String was not recognized as a valid DateTime.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 06:58 PM
+Description: String was not recognized as a valid DateTime.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 07:15 PM
+Description: String was not recognized as a valid DateTime.
+=============================================================================================================
+Source: Error while operating Resend form...
+Date: 26 April 2018 07:15 PM
+Description: String was not recognized as a valid DateTime.
+=============================================================================================================
+Source: Error while binding.. 
+Date: 26 April 2018 07:23 PM
+Description: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+=============================================================================================================
+Source: Error while binding.. 
+Date: 26 April 2018 07:23 PM
+Description: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)

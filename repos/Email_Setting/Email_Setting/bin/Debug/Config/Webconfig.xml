@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <connectionStrings>
+    Provider = SQLOLEDB; Data Source = KIL; Initial Catalog = Email_Settings; Integrated Security = SSPI;
+  </connectionStrings>
+</Settings>

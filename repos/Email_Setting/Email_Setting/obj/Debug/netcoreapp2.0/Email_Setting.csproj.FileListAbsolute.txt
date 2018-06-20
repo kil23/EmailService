@@ -1,0 +1,4 @@
+c:\users\lenovo\source\repos\Email_Setting\Email_Setting\obj\Debug\netcoreapp2.0\Email_Setting.csprojResolveAssemblyReference.cache
+c:\users\lenovo\source\repos\Email_Setting\Email_Setting\obj\Debug\netcoreapp2.0\Email_Setting.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\Email_Setting\Email_Setting\obj\Debug\netcoreapp2.0\Email_Setting.AssemblyInfoInputs.cache
+c:\users\lenovo\source\repos\Email_Setting\Email_Setting\obj\Debug\netcoreapp2.0\Email_Setting.AssemblyInfo.cs

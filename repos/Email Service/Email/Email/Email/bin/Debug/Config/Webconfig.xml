@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <connectionStrings>
+    Provider = SQLOLEDB;Data Source=SHRUTIKA-PC\SQLEXPRESS; Initial Catalog = dbEmailService; Integrated Security = SSPI;Persist Security Info=True;user id=sa;password=12345;
+  </connectionStrings>
+  <SQLconnectionStrings>
+    Data Source=SHRUTIKA-PC\SQLEXPRESS; Database=dbEmailService;Trusted_Connection=True;Integrated Security = true;Persist Security Info=True;user id=sa;password=12345;
+  </SQLconnectionStrings>
+</Settings>

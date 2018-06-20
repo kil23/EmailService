@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <connectionStrings>
+    <!--Provider = SQLOLEDB;Data Source=SAGAR-PC\SQLEXPRESS; Initial Catalog = Email_Details; Integrated Security = SSPI;Persist Security Info=True;user id=sa;password=12345;-->
+  Provider = SQLOLEDB;Data Source=KIL; Initial Catalog = Email_Details; Integrated Security = SSPI; 
+  </connectionStrings>
+  <SQLconnectionStrings>
+    <!-- Data Source=KIL; Database=Email_Details;Trusted_Connection=True; -->
+   Data Source=KIL; Database=Email_Details;Trusted_Connection=True;
+  </SQLconnectionStrings>
+  <apptimer>
+    <timer>3</timer>
+  </apptimer>
+</Settings>
+

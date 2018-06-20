@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Email_details\Email_details\bin\Debug\Email_details.dll
+C:\Users\Lenovo\source\repos\Email_details\Email_details\bin\Debug\Email_details.pdb
+C:\Users\Lenovo\source\repos\Email_details\Email_details\obj\Debug\Email_details.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Email_details\Email_details\obj\Debug\Email_details.dll
+C:\Users\Lenovo\source\repos\Email_details\Email_details\obj\Debug\Email_details.pdb
+C:\Users\Lenovo\source\repos\Email_details\Email_details\obj\Debug\Email_details.csprojResolveAssemblyReference.cache
+H:\VSPL Projects\Projects\Email Service\Email_details\Email_details\bin\Debug\Email_details.dll
+H:\VSPL Projects\Projects\Email Service\Email_details\Email_details\bin\Debug\Email_details.pdb
+H:\VSPL Projects\Projects\Email Service\Email_details\Email_details\obj\Debug\Email_details.dll
+H:\VSPL Projects\Projects\Email Service\Email_details\Email_details\obj\Debug\Email_details.pdb
+C:\Users\Lenovo\source\repos\Email Service\Email_details\Email_details\bin\Debug\Email_details.dll
+C:\Users\Lenovo\source\repos\Email Service\Email_details\Email_details\bin\Debug\Email_details.pdb
+C:\Users\Lenovo\source\repos\Email Service\Email_details\Email_details\obj\Debug\Email_details.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Email Service\Email_details\Email_details\obj\Debug\Email_details.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Email Service\Email_details\Email_details\obj\Debug\Email_details.dll
+C:\Users\Lenovo\source\repos\Email Service\Email_details\Email_details\obj\Debug\Email_details.pdb

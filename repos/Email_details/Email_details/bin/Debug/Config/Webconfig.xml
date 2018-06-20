@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <SQLconnectionStrings>
+    Data Source=KIL; Database=Email_Details;Trusted_Connection=True;
+  </SQLconnectionStrings>
+</Settings>

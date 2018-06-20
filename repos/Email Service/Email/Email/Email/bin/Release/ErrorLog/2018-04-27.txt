@@ -1,0 +1,74 @@
+=============================================================================================================
+Source: Starting Service Now..
+Date: 27 April 2018 10:40 AM
+Description: 
+=============================================================================================================
+Source: OleDB ConnectionString is checked. Its correct.
+Date: 27 April 2018 10:40 AM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: OleDB Connection now Open
+Date: 27 April 2018 10:40 AM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: DataTables created with data..
+Date: 27 April 2018 10:40 AM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: OleDB Connection closed..
+Date: 27 April 2018 10:40 AM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Service process started
+Date: 27 April 2018 10:40 AM
+Description: Resending failed emails...
+=============================================================================================================
+Source: Starting Service Now..
+Date: 27 April 2018 10:40 AM
+Description: 
+=============================================================================================================
+Source: OleDB ConnectionString is checked. Its correct.
+Date: 27 April 2018 10:40 AM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: OleDB Connection now Open
+Date: 27 April 2018 10:40 AM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: DataTables created with data..
+Date: 27 April 2018 10:40 AM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: OleDB Connection closed..
+Date: 27 April 2018 10:40 AM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Service process started
+Date: 27 April 2018 10:40 AM
+Description: Resending failed emails...
+=============================================================================================================
+Source: Email sent...
+Date: 27 April 2018 10:40 AM
+Description:  Updating Database entry using DLL 
+ ***SUCCESS*** 
+=============================================================================================================
+Source: Database updated
+Date: 27 April 2018 10:40 AM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Service process started
+Date: 27 April 2018 10:40 AM
+Description: Resending failed emails...
+=============================================================================================================
+Source: Email sent...
+Date: 27 April 2018 10:40 AM
+Description:  Updating Database entry using DLL 
+ ***SUCCESS*** 
+=============================================================================================================
+Source: Database updated
+Date: 27 April 2018 10:40 AM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Service execution completed..
+Date: 27 April 2018 10:40 AM
+Description: Exiting the Service.

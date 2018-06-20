@@ -1,0 +1,49 @@
+C:\Users\Lenovo\source\repos\Email\Email\obj\Release\Email.ProjectInstaller.resources
+C:\Users\Lenovo\source\repos\Email\Email\obj\Release\Email.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Email\Email\obj\Release\Email.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe.config
+C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.pdb
+C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email_details.dll
+C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email_details.pdb
+C:\Users\Lenovo\source\repos\Email\Email\obj\Release\Email.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Email\Email\obj\Release\Email.exe
+C:\Users\Lenovo\source\repos\Email\Email\obj\Release\Email.pdb
+C:\Users\Lenovo\source\repos\Email\Email\obj\Release\Email.csprojResolveAssemblyReference.cache
+H:\VSPL Projects\Projects\Email Service\Email\Email\bin\Release\Email.exe.config
+H:\VSPL Projects\Projects\Email Service\Email\Email\bin\Release\Email.exe
+H:\VSPL Projects\Projects\Email Service\Email\Email\bin\Release\Email.pdb
+H:\VSPL Projects\Projects\Email Service\Email\Email\bin\Release\Email_details.dll
+H:\VSPL Projects\Projects\Email Service\Email\Email\bin\Release\Email_details.pdb
+H:\VSPL Projects\Projects\Email Service\Email\Email\obj\Release\Email.ProjectInstaller.resources
+H:\VSPL Projects\Projects\Email Service\Email\Email\obj\Release\Email.csproj.GenerateResource.Cache
+H:\VSPL Projects\Projects\Email Service\Email\Email\obj\Release\Email.exe
+H:\VSPL Projects\Projects\Email Service\Email\Email\obj\Release\Email.pdb
+H:\VSPL Projects\Projects\Email Service\Email\Email\obj\Release\Email.EmailService.resources
+H:\VSPL Projects\Projects\Email Service\Email\Email\obj\Release\Email.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Email Service\Email\Email\bin\Release\Email.exe.config
+C:\Users\Lenovo\source\repos\Email Service\Email\Email\bin\Release\Email.exe
+C:\Users\Lenovo\source\repos\Email Service\Email\Email\bin\Release\Email.pdb
+C:\Users\Lenovo\source\repos\Email Service\Email\Email\bin\Release\Email_details.dll
+C:\Users\Lenovo\source\repos\Email Service\Email\Email\bin\Release\Email_details.pdb
+C:\Users\Lenovo\source\repos\Email Service\Email\Email\obj\Release\Email.EmailService.resources
+C:\Users\Lenovo\source\repos\Email Service\Email\Email\obj\Release\Email.ProjectInstaller.resources
+C:\Users\Lenovo\source\repos\Email Service\Email\Email\obj\Release\Email.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Email Service\Email\Email\obj\Release\Email.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Email Service\Email\Email\obj\Release\Email.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Email Service\Email\Email\obj\Release\Email.exe
+C:\Users\Lenovo\source\repos\Email Service\Email\Email\obj\Release\Email.pdb
+C:\Users\Lenovo\source\repos\Email Service\Email\Email\obj\Release\Email.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Email Service2\Email\Email\bin\Release\Email.exe.config
+C:\Users\Lenovo\source\repos\Email Service2\Email\Email\bin\Release\Email.exe
+C:\Users\Lenovo\source\repos\Email Service2\Email\Email\bin\Release\Email.pdb
+C:\Users\Lenovo\source\repos\Email Service2\Email\Email\bin\Release\Email_details.dll
+C:\Users\Lenovo\source\repos\Email Service2\Email\Email\bin\Release\Email_details.pdb
+C:\Users\Lenovo\source\repos\Email Service2\Email\Email\obj\Release\Email.EmailService.resources
+C:\Users\Lenovo\source\repos\Email Service2\Email\Email\obj\Release\Email.ProjectInstaller.resources
+C:\Users\Lenovo\source\repos\Email Service2\Email\Email\obj\Release\Email.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Email Service2\Email\Email\obj\Release\Email.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Email Service2\Email\Email\obj\Release\Email.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Email Service2\Email\Email\obj\Release\Email.exe
+C:\Users\Lenovo\source\repos\Email Service2\Email\Email\obj\Release\Email.pdb
+C:\Users\Lenovo\source\repos\Email Service2\Email\Email\obj\Release\Email.csprojResolveAssemblyReference.cache

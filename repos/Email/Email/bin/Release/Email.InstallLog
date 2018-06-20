@@ -1,0 +1,453 @@
+﻿Installing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Creating EventLog source EmailService in log Application...
+Rolling back assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Restoring event log to previous state for source EmailService.
+Uninstalling assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Removing EventLog source EmailService.
+Warning: The source EmailService is not registered on the local machine.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Removing EventLog source EmailService.
+Warning: The source EmailService is not registered on the local machine.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Creating EventLog source EmailService in log Application...
+Rolling back assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Restoring event log to previous state for source EmailService.
+Installing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Uninstalling assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Installing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Uninstalling assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Uninstalling assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Installing assembly 'G:\vspl projects\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\vspl projects\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = G:\vspl projects\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Creating EventLog source EmailService in log Application...
+Rolling back assembly 'G:\vspl projects\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\vspl projects\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = G:\vspl projects\Email\Email\bin\Release\Email.exe
+Restoring event log to previous state for source EmailService.
+Installing assembly 'G:\vspl projects\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\vspl projects\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = G:\vspl projects\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'G:\vspl projects\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\vspl projects\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = G:\vspl projects\Email\Email\bin\Release\Email.exe
+Uninstalling assembly 'G:\vspl projects\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\vspl projects\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = G:\vspl projects\Email\Email\bin\Release\Email.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'G:\vspl projects\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\vspl projects\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = G:\vspl projects\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'G:\vspl projects\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\vspl projects\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = G:\vspl projects\Email\Email\bin\Release\Email.exe
+Uninstalling assembly 'G:\vspl projects\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\vspl projects\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = G:\vspl projects\Email\Email\bin\Release\Email.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'G:\vspl projects\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\vspl projects\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = G:\vspl projects\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'G:\vspl projects\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\vspl projects\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = G:\vspl projects\Email\Email\bin\Release\Email.exe
+Uninstalling assembly 'G:\vspl projects\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\vspl projects\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = G:\vspl projects\Email\Email\bin\Release\Email.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'G:\vspl projects\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\vspl projects\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = G:\vspl projects\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'G:\vspl projects\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\vspl projects\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = G:\vspl projects\Email\Email\bin\Release\Email.exe
+Uninstalling assembly 'G:\vspl projects\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\vspl projects\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = G:\vspl projects\Email\Email\bin\Release\Email.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'G:\vspl projects\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\vspl projects\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = G:\vspl projects\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'G:\vspl projects\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\vspl projects\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = G:\vspl projects\Email\Email\bin\Release\Email.exe
+Uninstalling assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Uninstalling assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Uninstalling assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Uninstalling assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Uninstalling assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Uninstalling assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Uninstalling assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Uninstalling assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Uninstalling assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Uninstalling assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.InstallLog
+   assemblypath = C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe

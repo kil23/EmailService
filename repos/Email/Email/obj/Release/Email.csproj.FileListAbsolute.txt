@@ -1,0 +1,22 @@
+G:\vspl projects\Email\Email\bin\Release\Email.exe.config
+G:\vspl projects\Email\Email\bin\Release\Email.exe
+G:\vspl projects\Email\Email\bin\Release\Email.pdb
+G:\vspl projects\Email\Email\bin\Release\Email_details.dll
+G:\vspl projects\Email\Email\bin\Release\Email_details.pdb
+G:\vspl projects\Email\Email\obj\Release\Email.ProjectInstaller.resources
+G:\vspl projects\Email\Email\obj\Release\Email.csproj.GenerateResource.cache
+G:\vspl projects\Email\Email\obj\Release\Email.csproj.CoreCompileInputs.cache
+G:\vspl projects\Email\Email\obj\Release\Email.csproj.CopyComplete
+G:\vspl projects\Email\Email\obj\Release\Email.exe
+G:\vspl projects\Email\Email\obj\Release\Email.pdb
+C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe.config
+C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.exe
+C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email.pdb
+C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email_details.dll
+C:\Users\Lenovo\source\repos\Email\Email\bin\Release\Email_details.pdb
+C:\Users\Lenovo\source\repos\Email\Email\obj\Release\Email.ProjectInstaller.resources
+C:\Users\Lenovo\source\repos\Email\Email\obj\Release\Email.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Email\Email\obj\Release\Email.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Email\Email\obj\Release\Email.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Email\Email\obj\Release\Email.exe
+C:\Users\Lenovo\source\repos\Email\Email\obj\Release\Email.pdb

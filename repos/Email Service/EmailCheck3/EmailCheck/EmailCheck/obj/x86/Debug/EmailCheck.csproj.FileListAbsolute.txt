@@ -1,0 +1,79 @@
+F:\Vtelebyte\EmailCheck\EmailCheck\EmailCheck\bin\Debug\EmailCheck.exe
+F:\Vtelebyte\EmailCheck\EmailCheck\EmailCheck\bin\Debug\EmailCheck.pdb
+F:\Vtelebyte\EmailCheck\EmailCheck\EmailCheck\bin\Debug\System.Web.dll
+F:\Vtelebyte\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.Form1.resources
+F:\Vtelebyte\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.Properties.Resources.resources
+F:\Vtelebyte\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csproj.GenerateResource.Cache
+F:\Vtelebyte\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.exe
+F:\Vtelebyte\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.pdb
+F:\Vtelebyte\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csprojResolveAssemblyReference.cache
+H:\VTelebyte\MAIL SEND\From Mahesh\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.exe
+H:\VTelebyte\MAIL SEND\From Mahesh\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.pdb
+H:\VTelebyte\MAIL SEND\From Mahesh\EmailCheck\EmailCheck\EmailCheck\bin\Debug\EmailCheck.exe
+H:\VTelebyte\MAIL SEND\From Mahesh\EmailCheck\EmailCheck\EmailCheck\bin\Debug\EmailCheck.pdb
+H:\VTelebyte\MAIL SEND\From Mahesh\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csprojResolveAssemblyReference.cache
+H:\VTelebyte\MAIL SEND\From Mahesh\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.Form1.resources
+H:\VTelebyte\MAIL SEND\From Mahesh\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.Properties.Resources.resources
+H:\VTelebyte\MAIL SEND\From Mahesh\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csproj.GenerateResource.Cache
+G:\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.exe
+G:\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.pdb
+H:\VSPL Projects\Projects\EmailCheck\EmailCheck\bin\Debug\EmailCheck.exe
+H:\VSPL Projects\Projects\EmailCheck\EmailCheck\bin\Debug\EmailCheck.pdb
+H:\VSPL Projects\Projects\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.Form1.resources
+H:\VSPL Projects\Projects\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.Properties.Resources.resources
+H:\VSPL Projects\Projects\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csproj.GenerateResource.Cache
+H:\VSPL Projects\Projects\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.exe
+H:\VSPL Projects\Projects\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.pdb
+H:\VSPL Projects\Projects\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\source\repos\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.Form1.resources
+C:\Users\Lenovo\source\repos\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.exe
+C:\Users\Lenovo\source\repos\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.pdb
+C:\Users\Lenovo\source\repos\EmailCheck\EmailCheck\EmailCheck\bin\Debug\EmailCheck.exe.config
+C:\Users\Lenovo\source\repos\EmailCheck\EmailCheck\EmailCheck\bin\Debug\EmailCheck.exe
+C:\Users\Lenovo\source\repos\EmailCheck\EmailCheck\EmailCheck\bin\Debug\EmailCheck.pdb
+C:\Users\Lenovo\source\repos\EmailCheck\EmailCheck\EmailCheck\bin\Debug\Email_details.dll
+C:\Users\Lenovo\source\repos\EmailCheck\EmailCheck\EmailCheck\bin\Debug\Email_details.pdb
+C:\Users\Lenovo\source\repos\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csprojResolveAssemblyReference.cache
+G:\vspl projects\EmailCheck\EmailCheck\EmailCheck\bin\Debug\EmailCheck.exe.config
+G:\vspl projects\EmailCheck\EmailCheck\EmailCheck\bin\Debug\EmailCheck.exe
+G:\vspl projects\EmailCheck\EmailCheck\EmailCheck\bin\Debug\EmailCheck.pdb
+G:\vspl projects\EmailCheck\EmailCheck\EmailCheck\bin\Debug\Email_details.dll
+G:\vspl projects\EmailCheck\EmailCheck\EmailCheck\bin\Debug\Email_details.pdb
+G:\vspl projects\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csprojResolveAssemblyReference.cache
+G:\vspl projects\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.Form1.resources
+G:\vspl projects\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.Properties.Resources.resources
+G:\vspl projects\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csproj.GenerateResource.cache
+G:\vspl projects\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csproj.CoreCompileInputs.cache
+G:\vspl projects\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csproj.CopyComplete
+G:\vspl projects\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.exe
+G:\vspl projects\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.pdb
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck\EmailCheck\EmailCheck\bin\Debug\EmailCheck.exe.config
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck\EmailCheck\EmailCheck\bin\Debug\EmailCheck.exe
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck\EmailCheck\EmailCheck\bin\Debug\EmailCheck.pdb
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck\EmailCheck\EmailCheck\bin\Debug\Email_details.dll
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck\EmailCheck\EmailCheck\bin\Debug\Email_details.pdb
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.Form1.resources
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.exe
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.pdb
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck3\EmailCheck\EmailCheck\bin\Debug\EmailCheck.exe.config
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck3\EmailCheck\EmailCheck\bin\Debug\EmailCheck.exe
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck3\EmailCheck\EmailCheck\bin\Debug\EmailCheck.pdb
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck3\EmailCheck\EmailCheck\bin\Debug\Email_details.dll
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck3\EmailCheck\EmailCheck\bin\Debug\Email_details.pdb
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck3\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck3\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.Form1.resources
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck3\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck3\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck3\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck3\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck3\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.exe
+C:\Users\Lenovo\source\repos\Email Service\EmailCheck3\EmailCheck\EmailCheck\obj\x86\Debug\EmailCheck.pdb

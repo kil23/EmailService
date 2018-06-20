@@ -1,0 +1,16 @@
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 27 April 2018 10:08 AM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Email NOT sent
+Date: 27 April 2018 10:09 AM
+Description:  Database record is updated for failure email...
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 27 April 2018 10:09 AM
+Description:  ***SUCCESS*** 
+=============================================================================================================
+Source: Mail Sent and Database is updated
+Date: 27 April 2018 10:09 AM
+Description:  ***SUCCESS*** 
